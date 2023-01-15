@@ -1,6 +1,5 @@
 # Pimcore CustomEditablesBundle
-
-This Bundle is still a development version and not recommended for any other use.
+A collection of some useful pimcore editables, still needs some work. This Bundle is still a development version and not recommended for any other use.
 
 ### Installation
 

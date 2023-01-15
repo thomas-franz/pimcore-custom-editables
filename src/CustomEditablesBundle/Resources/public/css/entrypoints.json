@@ -1,0 +1,20 @@
+{
+  "entrypoints": {
+    "admin": {
+      "js": [
+        "/bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/runtime.js"
+      ],
+      "css": [
+        "/bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/admin.css"
+      ]
+    },
+    "editmode": {
+      "js": [
+        "/bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/runtime.js"
+      ],
+      "css": [
+        "/bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/editmode.css"
+      ]
+    }
+  }
+}

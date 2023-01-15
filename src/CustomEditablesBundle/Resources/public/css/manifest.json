@@ -1,0 +1,5 @@
+{
+  "bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/admin.css": "/bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/admin.css",
+  "bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/editmode.css": "/bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/editmode.css",
+  "bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/runtime.js": "/bundles/SergeDesign/CustomEditablesBundle/Resources/public/css/runtime.js"
+}

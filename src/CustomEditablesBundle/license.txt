@@ -1,0 +1,13 @@
+color_picker: https://factory.dev/pimcore-knowledge-base/how-to/custom-editable
+
+readme:
+Usage:
+{% set color = pimcore_color_picker('color_picker', {
+    defaultValue: '61373B',
+    reload: true
+}) %}
+{% if editmode %}
+{{ color|raw }}
+{% else %}
+{{ color.data }}
+{% endif %}

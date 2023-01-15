@@ -1,0 +1,39 @@
+{
+    "name": "serge0design/pimcore-custom-editables",
+    "license": "GPL-3.0-or-later",
+    "type": "pimcore-bundle",
+    "keywords": [
+        "pimcore",
+        "custom-editables"
+    ],
+    "description": "Pimcore CustomEditablesBundle - adds some usefull editables to the pimcore envoirement.",
+    "homepage": "https://github.com/serge0design/pimcore-custom-editables",
+    "authors": [
+        {
+            "name": "serge.design - Serge",
+            "email": "github@serge.design",
+            "homepage": "https://serge.design",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CustomEditablesBundle\\": "src/CustomEditablesBundle"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "extra": {
+        "pimcore": {
+            "bundles": [
+                "CustomEditablesBundle\\CustomEditablesBundle"
+            ]
+        }
+    },
+    "require": {
+        "pimcore/pimcore": "10.*"
+    }
+}

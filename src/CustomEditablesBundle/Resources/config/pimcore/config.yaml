@@ -1,0 +1,7 @@
+pimcore:
+  documents:
+    editables:
+      map:
+        color_picker: CustomEditablesBundle\Model\Document\Editable\ColorPicker
+        radio_group: CustomEditablesBundle\Model\Document\Editable\RadioGroup
+        simple_output: CustomEditablesBundle\Model\Document\Editable\SimpleOutput

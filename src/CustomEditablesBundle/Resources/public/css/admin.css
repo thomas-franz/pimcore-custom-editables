@@ -1,0 +1,12 @@
+.pimcore_overflow_scrolling {
+  overflow: hidden !important;
+}
+
+.pimcore_document_edit_panel {
+  margin-top: 0 !important;
+}
+.pimcore_document_edit_panel body {
+  overflow-x: hidden !important;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWRtaW4uY3NzIiwibWFwcGluZ3MiOiJBQUFBO0VBQ0k7QUFDSjs7QUFFQTtFQUNJO0FBQ0o7QUFDSTtFQUNJO0FBQ1IsQyIsInNvdXJjZXMiOlsid2VicGFjazovL3N0YXJ0ZXJraXQvLi9hZG1pbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi5waW1jb3JlX292ZXJmbG93X3Njcm9sbGluZyB7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbiAhaW1wb3J0YW50O1xufVxuXG4ucGltY29yZV9kb2N1bWVudF9lZGl0X3BhbmVsIHtcbiAgICBtYXJnaW4tdG9wOiAwICFpbXBvcnRhbnQ7XG5cbiAgICBib2R5IHtcbiAgICAgICAgb3ZlcmZsb3cteDogaGlkZGVuICFpbXBvcnRhbnQ7XG4gICAgfVxufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/

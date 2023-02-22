@@ -4,9 +4,24 @@ A collection of some useful pimcore editables, still needs some work. This Bundl
 ### Installation
 
 ```json
+"repositories": [
+  {
+    "type": "package",
+    "package": {
+      "name": "thomas-franz/pimcore-custom-editables",
+      "version": "1.0",
+      "type": "pimcore-bundle",
+      "source": {
+        "url": "https://github.com/thomas-franz/pimcore-custom-editables",
+        "type": "git",
+        "reference": "main"
+      }
+    }
+  }
+],
 "require": {
-  "serge0design/pimcore-custom-editables": "^1.0",
-}
+  "thomas-franz/pimcore-custom-editables": "^1.0"
+},
 ```
 
 - Execute: $ `composer require serge0design/pimcore-custom-editables`

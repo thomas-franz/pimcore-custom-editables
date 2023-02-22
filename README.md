@@ -24,7 +24,5 @@ A collection of some useful pimcore editables, still needs some work. This Bundl
 },
 ```
 
-- Execute: $ `composer require serge0design/pimcore-custom-editables`
-
 ### Enable Bundle
 - Execute: $ `bin/console pimcore:bundle:enable CustomEditablesBundle`

@@ -32,8 +32,5 @@
                 "CustomEditablesBundle\\CustomEditablesBundle"
             ]
         }
-    },
-    "require": {
-        "pimcore/pimcore": "10.*"
     }
 }
